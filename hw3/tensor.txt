@@ -1,0 +1,2 @@
+cd (log的父目录的父目录)
+tensorboard --logdir (log的父目录名字)
